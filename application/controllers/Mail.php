@@ -38,7 +38,7 @@ class Mail extends CI_Controller
 				'smtp_host' => 'ssl://smtp.googlemail.com',
 				'smtp_port' => 465,
 				'smtp_user' => 'maintenancem31@gmail.com',
-				'smtp_pass' => 'amelmaint',
+				'smtp_pass' => '',
 				'mail_type' => 'html',
 				'charset' => 'iso-8859-1',
 				'wordwrap' => TRUE
